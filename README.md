@@ -17,7 +17,7 @@ Become a part of the TalkCore evolution! 🛠️
     upon, changes added.
   5)Push changes to your forked repository
   
-###Api keys
+### Api Key:
     Get your Api keys in openai platform   https://platform.openai.com/docs/overview 
     Paste your secret Api key in secrets.toml an run your chatgpt clone
 
