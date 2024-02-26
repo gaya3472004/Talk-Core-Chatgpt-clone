@@ -11,10 +11,14 @@ Welcome to TalkCore, where simplicity meets the art of conversation. Unleash the
 ### Contribute:
 Become a part of the TalkCore evolution! 🛠️
   1)Fork this repository 
+  
   2)Clone this repository
+  
   3)Do your work and stage your changes.
+  
   4)Commit you changes with a commit message containing your name, file(s) worked 
     upon, changes added.
+    
   5)Push changes to your forked repository
   
 ### Api Key:
