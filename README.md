@@ -16,7 +16,10 @@ Become a part of the TalkCore evolution! 🛠️
   4)Commit you changes with a commit message containing your name, file(s) worked 
     upon, changes added.
   5)Push changes to your forked repository
-
+  
+###Api keys
+    Get your Api keys in openai platform   https://platform.openai.com/docs/overview 
+    Paste your secret Api key in secrets.toml an run your chatgpt clone
 
 ### Disclaimer:
 TalkCore stands independently, a unique gem in the realm of conversational AI. Wield its power responsibly. 💎
