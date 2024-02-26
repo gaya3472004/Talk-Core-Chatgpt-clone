@@ -21,7 +21,6 @@ Become a part of the TalkCore evolution! 🛠️
 Get your Api keys in openai platform   
 Paste your secret Api key in secrets.toml an run your chatgpt clone
     
-     ```bash
       https://platform.openai.com/docs/overview 
     
 ### Disclaimer:
