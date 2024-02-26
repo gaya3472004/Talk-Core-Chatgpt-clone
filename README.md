@@ -1,4 +1,4 @@
-## TalkCore: ✨ Unleash Simplicity in Conversational Brilliance ✨
+## TalkCore: ✨ Simple Conversational AI ✨
 
 Welcome to TalkCore, where simplicity meets the art of conversation. Unleash the power of effortless dialogues with our sleek and user-friendly conversational AI.
 
@@ -11,14 +11,11 @@ Welcome to TalkCore, where simplicity meets the art of conversation. Unleash the
 ### Getting Started:
 Embark on your conversational journey with our [Getting Started Guide](link-to-getting-started). Ideal for developers at every skill level. 🚀
 
-### Documentation:
-Dive into the nuances with our [Documentation](link-to-docs). Explore configuration options and unleash the full potential of TalkCore. 📚
 
 ### Contribute:
-Become a part of the TalkCore evolution! Check out [Contribution Guidelines](link-to-contributing) and leave your mark on simplicity. 🛠️
+Become a part of the TalkCore evolution! 🛠️
+Make a cop
 
-### Support:
-Have queries or seeking assistance? Visit our [Issue Tracker](link-to-issues) for prompt support. 🤝
 
 ### License:
 TalkCore dances under the tunes of [LICENSE NAME]. Discover the notes in [LICENSE.md](link-to-license). 🎵
