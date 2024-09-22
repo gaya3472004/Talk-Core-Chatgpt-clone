@@ -3,7 +3,7 @@
 Welcome to TalkCore, where simplicity meets the art of conversation. Unleash the power of effortless dialogues with our sleek and user-friendly conversational AI.
 
 ### Features:
-- **Simplicity Redefined**: Say goodbye to complexity; TalkCore is your straightforward solution. 🚀
+
 - **Intuitive Interactions**: Craft conversations that feel natural and engaging. 🗨️
 - **Feather-Light Yet Powerful**: A minimalist approach with maximum impact. 🌟
 - **Scale Seamlessly**: Grow without limits with our scalable architecture. 📈
